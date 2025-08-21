@@ -4,9 +4,9 @@
 
 ## 🏋 About Me
 
-- 🌱 I am currently learning more about backend development.
-- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)
-- 😄 Pronouns: He/Him
+🌱 I am currently learning more about backend development.
+📫 What is the best way to contact me? [Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)
+😄 Pronouns: He/Him
 
 ---
 
@@ -33,34 +33,20 @@ No Activity Tracked This Week
 ```
 ---
 
-  
-<!-- Social Media Handles
-
-<h3 align="left">Connect with me:</h3>  
-<p align="left">
-<a href="https://instagram.com/hash.prog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hash.prog" height="30" width="40" /></a>  
-<a href="https://github.com/hashfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14162484/hash-fx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hashprog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://hashfx.github.io/Portfolio2022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>
-   -->
    
 <!-- Skillset Icons -->
-## 📈 Github Stats
-<!-- Github Statistics Cards -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashfx&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hashfx&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats)
+<div align="center">
 
+## 📈 Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashfx&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats)
+
+</div>
+<br>
 
 <div align="center">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dariodenardi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" height="200"/>
-
-  <div>
-</div>  -->
 
 ### 🧰 Languages and Tools:
 <p align="center">
-  <!-- Bahasa Pemrograman -->
   <img align="middle" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="middle" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
   <img align="middle" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
@@ -72,13 +58,10 @@ No Activity Tracked This Week
   <img align="middle" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img align="middle" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 
-  <!-- Framework & Teknologi -->
   <img align="middle" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="middle" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" />
   <img align="middle" alt="Django" width="26px" src="https://img.icons8.com/ios/40/000000/django.png" />
-  <img align="middle" alt="Flask" width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
 
-  <!-- Tools -->
   <img align="middle" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   <img align="middle" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
   <img align="middle" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
@@ -97,15 +80,21 @@ No Activity Tracked This Week
   <img align="middle" alt="Microsoft Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
   <img align="middle" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 </p>
+
+</div>
 <br>
 
-<!-- Profile Trophy -->
+<div align="center">
+
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
-<!--   Top Languages Using -->
+</div>
+
+<div align="center">
+
 ### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
@@ -113,11 +102,4 @@ No Activity Tracked This Week
  <hr>
  <br>
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
-</p>
