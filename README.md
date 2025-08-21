@@ -4,9 +4,9 @@
 
 ## 🏋 About Me
 
-🌱 I am currently learning more about backend development.
-📫 What is the best way to contact me? [Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)
-😄 Pronouns: He/Him
+- 🌱 I am currently learning more about backend development.
+- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)
+- 😄 Pronouns: He/Him
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-📊 **This Week I Spent My Time On** 
+## 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: 
@@ -39,9 +39,8 @@ No Activity Tracked This Week
 
 ## 📈 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashfx&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats)
-
 </div>
-<br>
+
 
 <div align="center">
 
