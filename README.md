@@ -3,8 +3,9 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 An **Informatics student** on a continuous journey of learning through code. I'm currently diving into **Full-Stack Development**, **AI & Machine Learning**, **Data Science**, and **Computer Networking**.
-- 😄 Pronouns: He/Him
+- 🌱 An **Informatics student** on a continuous journey of learning through code.
+- 🚀 I'm currently diving into **Full-Stack Development**, **AI & Machine Learning**, **Data Science**, and **Computer Networking**.
+- 😋 Pronouns: He/Him
 - 💬 Let's connect and talk tech on **[Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)**.
 <br>
 
