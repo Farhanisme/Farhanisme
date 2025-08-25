@@ -1,11 +1,17 @@
-# <img width="40px" height="40" src="https://media.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" style="position: relative; top: 9px;" />Annyeong yeorobun! - I'm Farhanisme <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+# Annyeong yeorobun! - I'm Farhanisme <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<img align="right" alt="GIF" height="360px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<br>
 
-## 🏋 About Me
+## 👨‍💻 About Me
 
-- 🌱 I am currently learning more about backend development.
-- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)
-- 😄 Pronouns: He/Him
+🚀 As an **Informatics student**, I'm on a continuous journey of learning and discovery in the tech world. I'm passionate about the process of solving problems with code, and my current focus is on:
+
+- 💻 **Full-Stack Development**: Sharpening my skills in building applications from front to back.
+- 🤖 **AI & Machine Learning**: Exploring the fascinating world of neural networks and intelligent algorithms.
+- 📊 **Data Science**: Experimenting with techniques to extract insights and tell stories with data.
+- 🔗 **Computer Networking**: Deepening my understanding of the infrastructure that powers the internet.
+
+💬 Always open to learning new things! Let's connect and talk tech on **[Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)**.
 <br>
 
 <div style="clear: both;"></div>
@@ -81,13 +87,11 @@
 <br>
 <br>
 <br>
+
 <div style="clear: both;"></div>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
 
-<br>
-<br>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanisme/farhanisme/output/pacman-contribution-graph-dark.svg" />
@@ -95,7 +99,3 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farhanisme/farhanisme/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
-
-
-
-
