@@ -1,23 +1,18 @@
 # Annyeong yeorobun! - I'm Farhanisme <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<img align="right" alt="GIF" height="175px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## 👨‍💻 About Me
 
-🚀 As an **Informatics student**, I'm on a continuous journey of learning and discovery in the tech world. I'm passionate about the process of solving problems with code, and my current focus is on:
-
-- 💻 **Full-Stack Development**: Sharpening my skills in building applications from front to back.
-- 🤖 **AI & Machine Learning**: Exploring the fascinating world of neural networks and intelligent algorithms.
-- 📊 **Data Science**: Experimenting with techniques to extract insights and tell stories with data.
-- 🔗 **Computer Networking**: Deepening my understanding of the infrastructure that powers the internet.
-
-💬 Always open to learning new things! Let's connect and talk tech on **[Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)**.
+- 🚀 An **Informatics student** on a continuous journey of learning through code. I'm currently diving into **Full-Stack Development**, **AI & Machine Learning**, **Data Science**, and **Computer Networking**.
+- 😄 Pronouns: He/Him
+- 💬 Let's connect and talk tech on **[Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)**.
 <br>
 
 <div style="clear: both;"></div>
 <div align="center"><h2>📈 Github Stats</h2></div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=farhanisme&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=farhanisme&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanisme&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanisme&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="270" alt="activity-graph graph" />
 </div>
