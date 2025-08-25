@@ -6,13 +6,7 @@
 - 🌱 I am currently learning more about backend development.
 - 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)
 - 😄 Pronouns: He/Him
-
-<div style="clear: both;"></div>
-<div align="center"><h2>🎧 Spotify Playing</h2></div>
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
+<br>
 
 <div style="clear: both;"></div>
 <div align="center"><h2>📈 Github Stats</h2></div>
@@ -87,7 +81,13 @@
 <br>
 <br>
 <br>
+<div style="clear: both;"></div>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
+
+<br>
+<br>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanisme/farhanisme/output/pacman-contribution-graph-dark.svg" />
@@ -95,5 +95,7 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farhanisme/farhanisme/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
+
+
 
 
