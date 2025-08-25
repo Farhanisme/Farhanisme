@@ -1,6 +1,5 @@
 # Annyeong yeorobun! - I'm Farhanisme <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-<img align="right" alt="GIF" height="360px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
-<br>
+<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## 👨‍💻 About Me
 
@@ -90,6 +89,7 @@
 
 <div style="clear: both;"></div>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
 
 <div align="center">
