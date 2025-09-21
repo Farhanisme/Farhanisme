@@ -86,7 +86,7 @@
 <div style="clear: both;"></div>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
+[![Spotify](https://novatorem.vercel.app/api/spotify?)](https://open.spotify.com/user/omnitenebris)
 
 <div align="center">
   <picture>
