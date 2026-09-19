@@ -10,13 +10,13 @@
 <br>
 
 <div style="clear: both;"></div>
-<div align="center"><h2>📈 Github Stats</h2></div>
+<!-- <div align="center"><h2>📈 Github Stats</h2></div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=farhanisme&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanisme&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanisme&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="270" alt="activity-graph graph" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanisme&theme=github_dark" alt="Repos per language" />
@@ -84,9 +84,6 @@
 <br>
 
 <div style="clear: both;"></div>
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?)](https://open.spotify.com/user/omnitenebris)
 
 <div align="center">
   <picture>
